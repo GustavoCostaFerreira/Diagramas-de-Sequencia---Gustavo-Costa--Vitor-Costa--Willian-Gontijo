@@ -1,0 +1,20 @@
+
+                                    GIT                             
+															
+
+		-------------------------------------------	
+		|   DIAGRAMAS:				   |
+                |   					   |
+		|		* Login                    |
+		| 		* Emitir Relatório         |  
+		|		* Validar usuários         |   
+		|		* Gerencia estágio         |    
+		|		* visualiza                |    
+		|		* Nova Senha               |        
+		|		* Preencher formuário      |        
+		|		* Cadastro                 |  
+                |                                          |   
+                |                                          |   
+                 ------------------------------------------
+                |  Criação: Gustavo C; Vitor C; Willian G. |
+                 ------------------------------------------
